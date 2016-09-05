@@ -1,1 +1,1 @@
-./configure--enable-debug --enable-trace-backends=nop,log,simple,ust
+./configure --enable-debug --enable-trace-backends=nop,log,simple,ust
